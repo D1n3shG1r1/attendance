@@ -1,0 +1,9 @@
+python >= 3
+opencv-python
+numpy
+os
+datetime
+face_recognition
+wheel
+dlib
+camera resolutions 640(width) x 480(height)
